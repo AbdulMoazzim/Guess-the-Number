@@ -22,5 +22,5 @@ Welcome to the Number Guessing Game! This is a simple game written in C where th
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
 
